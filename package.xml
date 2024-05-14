@@ -12,5 +12,21 @@
  <author>Joseph Mirabel</author>
  <author>Florent Lamiraux et al.</author>
 
+ <depend>hpp-fcl</depend>
+ <depend>hpp-util</depend>
+ <depend>hpp-statistics</depend>
+ <depend>pinocchio</depend>
+ <depend>hpp-pinocchio</depend>
+ <depend>hpp-core</depend>
+ <depend>hpp-corbaserver</depend>
+ <depend>hpp-constraints</depend>
+ <depend>hpp-manipulation</depend>
+ <depend>hpp-manipulation-urdf</depend>
+ <depend>hpp-manipulation-corba</depend>
+ <depend>gepetto-viewer</depend>
+ <depend>gepetto-viewer-corba</depend>
+ <depend>hpp-gepetto-viewer</depend>
+ <depend>hpp_tutorial</depend>
+
  <buildtool_depend>catkin</buildtool_depend>
  </package>
